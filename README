@@ -25,7 +25,7 @@ simpletun -h
 
 -------
 
-Refer to http://backreference.org/2010/03/27/tuntap-interface-tutorial/ for 
+Refer to http://backreference.org/2010/03/26/tuntap-interface-tutorial/ for 
 more information on tun/tap interfaces in Linux in general, and on this 
 program in particular.
 The program must be run at one end as a server, and as client at the other 
